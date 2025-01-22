@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@screens/*": ["src/screens/*"],
+      "@routes/*": ["src/routes/*"],
+      "@i18n/*": ["src/config/i18n/*"],
+      "@constants/*": ["src/constants/*"],
+      "@helper/*": ["src/helper/*"],
+      "@components/*": ["src/components/*"],
+      "@assets/*": ["src/assets/*"]
+    }
+  }
+}
